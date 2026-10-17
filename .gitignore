@@ -1,1 +1,7 @@
 data/*
+
+# 训练产物（可由 B5 重新生成）
+cnn_neu.h5
+
+# 本地工作记忆
+.workbuddy/
